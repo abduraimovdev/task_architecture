@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "173352563614",
+    "firebase_url": "https://task-5d2a2-default-rtdb.firebaseio.com",
+    "project_id": "task-5d2a2",
+    "storage_bucket": "task-5d2a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173352563614:android:c033b427bd3dee9d46dc8f",
+        "android_client_info": {
+          "package_name": "uz.abduraimov.task_architecture"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYGOnA-m9c8Swouy_fFEGWTw3JkS56ryI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
